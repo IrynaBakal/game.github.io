@@ -1,0 +1,13 @@
+body{
+	height: 90vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#container>* {
+	border: 1px dashed black;
+}
+.square{
+	width: 70px;
+	height: 70px;
+}
